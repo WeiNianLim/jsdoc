@@ -1,6 +1,6 @@
 {
-  "name": "jsdoc",
-  "private": true,
+  "name": "issi-doc",
+  "version": "1.0.0",
   "license": "Apache-2.0",
   "devDependencies": {
     "@jsdoc/eslint-config": "^1.0.8",
